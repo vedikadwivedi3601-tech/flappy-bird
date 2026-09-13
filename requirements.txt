@@ -1,0 +1,8 @@
+gradio
+torch
+gymnasium
+flappy-bird-gymnasium
+pyyaml
+imageio
+imageio-ffmpeg
+pygame
