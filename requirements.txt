@@ -5,4 +5,4 @@ flappy-bird-gymnasium
 pyyaml
 imageio
 imageio-ffmpeg
-pygame
+pygame==2.5.2
